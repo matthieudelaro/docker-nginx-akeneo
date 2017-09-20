@@ -100,7 +100,7 @@ $ > ./install.sh [--using-machine my-docker-machine] --provision --token 123abcd
 ***--token*** It's recommended to specify your github oauth token to avoid hitting the GitHub API clone restrictions when pulling the Akeneo's vendor packages from github && packagist.org
 
 
-- **Subsequent runs cab be done just by running**:
+- **Subsequent runs can be done just by running**:
 ```
 $ > ./start.sh
 
